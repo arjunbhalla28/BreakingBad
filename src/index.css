@@ -1,0 +1,38 @@
+body{
+  background-color: lightblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+  color: blue;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+  text-align: center;
+  text-shadow: 1px 1px 4px lightcoral;
+}
+
+img{
+  border-radius: 8px;
+  max-height: 500px;
+  max-width: 500px;
+  display: block;
+}
+
+button{
+  background-color: #4CAF50;
+  border: 2px,solid;
+}
+
+.details{
+  font-size: larger;
+}
+.details strong{
+  color: green;
+}
+.goback{
+  display:block;
+  margin-inline-start: 0%;
+}
+
+/* li{
+  margin-left: 40px;
+} */
